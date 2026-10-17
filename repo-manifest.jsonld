@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/lmfit/lmfit-py/commit/e270500e3efb4ff9cce91416b3f55678d6271811",
       "git:hexsha": "e270500e3efb4ff9cce91416b3f55678d6271811",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/lmfit/lmfit-py/commit/30cd569afcfe62ad9eb4cc9fe4c228d1fb84cb43",
