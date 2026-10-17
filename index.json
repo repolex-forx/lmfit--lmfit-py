@@ -1,0 +1,11 @@
+{
+  "org": "lmfit",
+  "repo": "lmfit-py",
+  "versions": [
+    {
+      "commit": "e270500e3efb4ff9cce91416b3f55678d6271811",
+      "tag": "",
+      "parsed_at": "2026-10-17T04:32:01.468644+00:00"
+    }
+  ]
+}
